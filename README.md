@@ -38,4 +38,4 @@ O script realiza as seguintes etapas:
 ### Passo a passo
 1. Clone este repositório:
    ```bash
-   git clone [https://github.com/SEU_USUARIO/linux-projeto1-iac.git](https://github.com/SEU_USUARIO/linux-projeto1-iac.git)
+  git clone [https://github.com/DrBentes16/DeployDash.git](https://github.com/DrBentes16/DeployDash.git)
