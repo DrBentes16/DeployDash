@@ -1,0 +1,18 @@
+# Inicializa o git na pasta
+git init
+
+# Adiciona o script e o README para o "pacote" de envio
+git add iac1.sh README.md
+
+# Cria a sua primeira versão (o commit)
+git commit -m "feat: setup inicial de infraestrutura como código"
+
+# Conecta com o seu GitHub (copie o link que aparece na página do seu repo)
+git remote add origin https://github.com/link........./shellforge-linux-iac.git
+
+# Envia os arquivos
+git push -u origin main
+
+# O Teste
+sudo chmod +x iac1.sh
+sudo ./iac1.sh
